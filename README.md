@@ -1,7 +1,5 @@
 # Two Truths and a Lie
 
-Max's Two Truths and a Lie game, built with HTML forms and JavaScript.
-
 ## Play the game
 
 https://maxhfel.github.io/Day14_Forms/
